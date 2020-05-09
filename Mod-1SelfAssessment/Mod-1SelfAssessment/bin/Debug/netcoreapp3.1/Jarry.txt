@@ -1,0 +1,1 @@
+Student::Id =2, Name=Jarry, Address=BothellEnrollmentStatus=Regular

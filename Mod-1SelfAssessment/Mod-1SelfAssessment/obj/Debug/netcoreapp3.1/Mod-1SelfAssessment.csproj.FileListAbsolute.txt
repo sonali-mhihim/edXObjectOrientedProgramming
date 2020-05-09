@@ -1,0 +1,13 @@
+C:\Users\Sonali\source\repos\edXObjectOrientedProgramming\Mod-1SelfAssessment\Mod-1SelfAssessment\bin\Debug\netcoreapp3.1\Mod-1SelfAssessment.exe
+C:\Users\Sonali\source\repos\edXObjectOrientedProgramming\Mod-1SelfAssessment\Mod-1SelfAssessment\bin\Debug\netcoreapp3.1\Mod-1SelfAssessment.deps.json
+C:\Users\Sonali\source\repos\edXObjectOrientedProgramming\Mod-1SelfAssessment\Mod-1SelfAssessment\bin\Debug\netcoreapp3.1\Mod-1SelfAssessment.runtimeconfig.json
+C:\Users\Sonali\source\repos\edXObjectOrientedProgramming\Mod-1SelfAssessment\Mod-1SelfAssessment\bin\Debug\netcoreapp3.1\Mod-1SelfAssessment.runtimeconfig.dev.json
+C:\Users\Sonali\source\repos\edXObjectOrientedProgramming\Mod-1SelfAssessment\Mod-1SelfAssessment\bin\Debug\netcoreapp3.1\Mod-1SelfAssessment.dll
+C:\Users\Sonali\source\repos\edXObjectOrientedProgramming\Mod-1SelfAssessment\Mod-1SelfAssessment\bin\Debug\netcoreapp3.1\Mod-1SelfAssessment.pdb
+C:\Users\Sonali\source\repos\edXObjectOrientedProgramming\Mod-1SelfAssessment\Mod-1SelfAssessment\obj\Debug\netcoreapp3.1\Mod-1SelfAssessment.csprojAssemblyReference.cache
+C:\Users\Sonali\source\repos\edXObjectOrientedProgramming\Mod-1SelfAssessment\Mod-1SelfAssessment\obj\Debug\netcoreapp3.1\Mod-1SelfAssessment.csproj.CoreCompileInputs.cache
+C:\Users\Sonali\source\repos\edXObjectOrientedProgramming\Mod-1SelfAssessment\Mod-1SelfAssessment\obj\Debug\netcoreapp3.1\Mod-1SelfAssessment.AssemblyInfoInputs.cache
+C:\Users\Sonali\source\repos\edXObjectOrientedProgramming\Mod-1SelfAssessment\Mod-1SelfAssessment\obj\Debug\netcoreapp3.1\Mod-1SelfAssessment.AssemblyInfo.cs
+C:\Users\Sonali\source\repos\edXObjectOrientedProgramming\Mod-1SelfAssessment\Mod-1SelfAssessment\obj\Debug\netcoreapp3.1\Mod-1SelfAssessment.dll
+C:\Users\Sonali\source\repos\edXObjectOrientedProgramming\Mod-1SelfAssessment\Mod-1SelfAssessment\obj\Debug\netcoreapp3.1\Mod-1SelfAssessment.pdb
+C:\Users\Sonali\source\repos\edXObjectOrientedProgramming\Mod-1SelfAssessment\Mod-1SelfAssessment\obj\Debug\netcoreapp3.1\Mod-1SelfAssessment.genruntimeconfig.cache
